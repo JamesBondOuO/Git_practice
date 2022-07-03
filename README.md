@@ -1,2 +1,2 @@
 # Git_pratice
-files for git pratice
+the place for git pratice
