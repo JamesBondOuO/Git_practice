@@ -1,2 +1,2 @@
-# Git_pratice
-the place for git pratice
+# Git_practice
+the place for git practicing
