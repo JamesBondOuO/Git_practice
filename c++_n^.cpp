@@ -14,7 +14,7 @@ long long cal(int a,int b)      // 遞迴計算次方
 int main(){
 	while(cin)
 	{
-		int a,b;
+		int a,b,c,d;
 		cout<<"輸入a和b(空白間隔): ";
 		scanf("%d %d",&a,&b);
 
