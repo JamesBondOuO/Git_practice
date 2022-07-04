@@ -1,2 +1,2 @@
 # Git_practice
- place for git practicing
+the place for git practicing
